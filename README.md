@@ -19,40 +19,22 @@
 
 ## 📊 GitHub Statistics
 <div align="center">
+
 ![Zhanli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhanli-Li&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+
 </div>
 
-## 🛠️ Tech Stack
 
-### 💻 Programming & Development
+## 🛠️ Tech Stack
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-</div>
-
-### 🤖 AI & Machine Learning
-<div align="center">
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
 ![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-000000?style=for-the-badge&logoColor=white)
-
-</div>
-
-### ☁️ Infrastructure & DevOps
-<div align="center">
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-
-</div>
-
-### 📝 Documentation & Writing
-<div align="center">
-  
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
 </div>
