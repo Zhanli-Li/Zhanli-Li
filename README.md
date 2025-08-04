@@ -32,6 +32,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
+![LlamaFactory](https://img.shields.io/badge/🦙_LlamaFactory-FF6B6B?style=for-the-badge&logoColor=white)
+![VERL](https://img.shields.io/badge/VERL-4CAF50?style=for-the-badge&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-000000?style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
