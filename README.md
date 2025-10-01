@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Zhanli Li (李展利) ⚡  
-*"Building AI for a brighter future. Let's connect! "*
+*"Building AI for a brighter future!"*
 
 [![Visitors](https://komarev.com/ghpvc/?username=Zhanli-Li&color=blue&style=flat&label=VISITORS)](https://github.com/Zhanli-Li)
 </div>
