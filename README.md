@@ -7,3 +7,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Zhanli-Li)
 
 I am Zhanli Li (李展利), an undergraduate student at Zhongnan University of Economics and Law, broadly interested in AI research, especially agentic training, document intelligence, data intelligence, and explainability. My research principle is to make AI trustworthy and to pursue work that can genuinely contribute to a better world.
+
+**Important‼️: I am actively applying for CS/AI PhD positions for Fall 2027!**
